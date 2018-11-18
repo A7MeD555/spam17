@@ -5,6 +5,7 @@ client.on('ready', () => {
     console.log('I am ready!');
 });
 
+
  var prefix = "17";
 
  client.on('message', message => {
